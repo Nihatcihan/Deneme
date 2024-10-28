@@ -14,3 +14,16 @@
 ---
 
 ![lorem picsum Gorsel](https://picsum.photos/200/144)
+
+
+```python
+print("hello world")
+```
+
+```javascript
+console.log("hello world")
+
+function helloworld(){
+    console.log("hello world")
+}
+```
